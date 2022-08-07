@@ -1,0 +1,10 @@
+.menu {
+    background-color: coral;
+    width: 33%;
+    display: inline-block;
+}
+
+.inline {
+    display: inline-block;
+    width: 65%;
+}
